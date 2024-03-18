@@ -9,6 +9,6 @@
   "devDependencies": {
     "@nuxt/devtools": "workspace:^",
     "@types/node": "^20.11.27",
-    "nuxt": "^3.10.3"
+    "nuxt": "^3.11.1"
   }
 }

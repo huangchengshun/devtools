@@ -43,7 +43,7 @@
     "@iconify-json/ri": "^1.1.20",
     "@iconify-json/tabler": "^1.1.107",
     "@nuxt/devtools-kit": "workspace:*",
-    "@nuxt/kit": "^3.10.3",
+    "@nuxt/kit": "^3.11.1",
     "@nuxtjs/color-mode": "^3.3.2",
     "@unocss/core": "^0.58.5",
     "@unocss/nuxt": "^0.58.5",
@@ -62,7 +62,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "workspace:*",
-    "nuxt": "^3.10.3"
+    "nuxt": "^3.11.1"
   },
   "publishConfig": {
     "access": "public"
